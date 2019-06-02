@@ -1,0 +1,19 @@
+.app {
+  padding: 30px;
+}
+
+.appHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  margin: 0 10px;
+}
+
+.typeView{
+  display: flex;
+  justify-content: space-between;
+  width: 80px;
+}
